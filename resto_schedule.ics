@@ -1,0 +1,950 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Resto Progres Alert//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مواعيد حجز الريستو Progres
+BEGIN:VEVENT
+UID:resto-20261109@progres.alert
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 10، الأربعاء 11، الخميس 12.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261112@progres.alert
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 13، السبت 14، الأحد 15.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261115@progres.alert
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261115
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 16، الثلاثاء 17، الأربعاء 18.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261118@progres.alert
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261118
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 19، الجمعة 20، السبت 21.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261121@progres.alert
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261121
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 22، الإثنين 23، الثلاثاء 24.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261124@progres.alert
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 25، الخميس 26، الجمعة 27.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261127@progres.alert
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: السبت 28، الأحد 29، الإثنين 30.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261130@progres.alert
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 1، الأربعاء 2، الخميس 3.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261203@progres.alert
+DTSTAMP:20261203T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 4، السبت 5، الأحد 6.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261206@progres.alert
+DTSTAMP:20261206T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261206
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 7، الثلاثاء 8، الأربعاء 9.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261209@progres.alert
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261209
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 10، الجمعة 11، السبت 12.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261212@progres.alert
+DTSTAMP:20261212T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261212
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 13، الإثنين 14، الثلاثاء 15.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261215@progres.alert
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261215
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 16، الخميس 17، الجمعة 18.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261218@progres.alert
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261218
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: السبت 19، الأحد 20، الإثنين 21.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261221@progres.alert
+DTSTAMP:20261221T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261221
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 22، الأربعاء 23، الخميس 24.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261224@progres.alert
+DTSTAMP:20261224T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261224
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 25، السبت 26، الأحد 27.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261227@progres.alert
+DTSTAMP:20261227T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261227
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 28، الثلاثاء 29، الأربعاء 30.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20261230@progres.alert
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261230
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 31، الجمعة 1، السبت 2.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270102@progres.alert
+DTSTAMP:20270102T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270102
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 3، الإثنين 4، الثلاثاء 5.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270105@progres.alert
+DTSTAMP:20270105T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270105
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 6، الخميس 7، الجمعة 8.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270108@progres.alert
+DTSTAMP:20270108T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270108
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: السبت 9، الأحد 10، الإثنين 11.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270111@progres.alert
+DTSTAMP:20270111T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270111
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 12، الأربعاء 13، الخميس 14.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270114@progres.alert
+DTSTAMP:20270114T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270114
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 15، السبت 16، الأحد 17.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270117@progres.alert
+DTSTAMP:20270117T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270117
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 18، الثلاثاء 19، الأربعاء 20.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270120@progres.alert
+DTSTAMP:20270120T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270120
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 21، الجمعة 22، السبت 23.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270123@progres.alert
+DTSTAMP:20270123T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270123
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 24، الإثنين 25، الثلاثاء 26.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270126@progres.alert
+DTSTAMP:20270126T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270126
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 27، الخميس 28، الجمعة 29.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270129@progres.alert
+DTSTAMP:20270129T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270129
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: السبت 30، الأحد 31، الإثنين 1.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270201@progres.alert
+DTSTAMP:20270201T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270201
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 2، الأربعاء 3، الخميس 4.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270204@progres.alert
+DTSTAMP:20270204T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270204
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 5، السبت 6، الأحد 7.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270207@progres.alert
+DTSTAMP:20270207T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270207
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 8، الثلاثاء 9، الأربعاء 10.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270210@progres.alert
+DTSTAMP:20270210T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270210
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 11، الجمعة 12، السبت 13.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270213@progres.alert
+DTSTAMP:20270213T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270213
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 14، الإثنين 15، الثلاثاء 16.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270216@progres.alert
+DTSTAMP:20270216T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270216
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 17، الخميس 18، الجمعة 19.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270219@progres.alert
+DTSTAMP:20270219T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270219
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: السبت 20، الأحد 21، الإثنين 22.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270222@progres.alert
+DTSTAMP:20270222T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270222
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الثلاثاء 23، الأربعاء 24، الخميس 25.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270225@progres.alert
+DTSTAMP:20270225T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270225
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الجمعة 26، السبت 27، الأحد 28.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270228@progres.alert
+DTSTAMP:20270228T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270228
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الإثنين 1، الثلاثاء 2، الأربعاء 3.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270303@progres.alert
+DTSTAMP:20270303T000000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270303
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الخميس 4، الجمعة 5، السبت 6.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270306@progres.alert
+DTSTAMP:20270306T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270306
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأحد 7، الإثنين 8، الثلاثاء 9.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-20270309@progres.alert
+DTSTAMP:20270309T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270309
+SUMMARY:🍽️ موعد حجز الريستو (يجب عليك الحجز الآن)
+DESCRIPTION:يجب عليك الحجز اليوم للوجبات القادمة: الأربعاء 10، الخميس 11، الجمعة 12.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تذكير صباحي: يجب عليك الحجز الآن
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تنبيه مسائي: يجب عليك الحجز الآن
+TRIGGER:-PT6H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:إنذار أخير: يجب عليك الحجز الآن فوراً قبل إغلاق النظام
+TRIGGER:-PT2H30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
