@@ -12,8 +12,6 @@ import urllib.error
 # إعدادات ntfy
 NTFY_URL = "https://ntfy.sh"
 TOPIC = "gp_constantine_chem4_alert_2026"
-# رابط Progrès الرسمي الذي يرتبط به تطبيق WebEtu
-PROGRES_URL = "https://progres.mesrs.dz/webetu/"
 
 # تاريخ البداية المرجعي (يوم الإثنين 9 نوفمبر 2026 - أول يوم تذكير قادم)
 REFERENCE_DATE = datetime.date(2026, 11, 9)
@@ -45,7 +43,7 @@ def get_target_booking_days(reminder_date: datetime.date):
 
 
 def send_ntfy_notification(title: str, message: str, priority: int = 4, tags=None):
-    """إرسال إشعار عبر ntfy مع رابط يفتح تطبيق WebEtu أو المتصفح"""
+    """إرسال إشعار عبر ntfy واضح ومركّز على التذكير بالمواعيد"""
     if tags is None:
         tags = ["bell", "fork_and_knife"]
 
@@ -55,16 +53,7 @@ def send_ntfy_notification(title: str, message: str, priority: int = 4, tags=Non
         "message": message,
         "priority": priority,
         "tags": tags,
-        # النقر على الإشعار يفتح الرابط
-        "click": PROGRES_URL,
-        "actions": [
-            {
-                "action": "view",
-                "label": "🍽️ فتح تطبيق WebEtu للحجز",
-                "url": PROGRES_URL,
-                "clear": True
-            }
-        ]
+        # لا نضع روابط لتفادي أخطاء النظام، فالهدف هو التنبيه الصوتي والنصي الفوري
     }
 
     req = urllib.request.Request(
