@@ -1,0 +1,38 @@
+name: Resto Progrès Notifier
+
+on:
+  schedule:
+    # الأوقات بتوقيت غرينتش (UTC) - الجزائر هي UTC+1
+    # الدفعة الأولى: 09:30 UTC (10:30 بتوقيت الجزائر)
+    - cron: '30 9 * * *'
+    # الدفعة الثانية: 16:30 UTC (17:30 بتوقيت الجزائر)
+    - cron: '30 16 * * *'
+    # الدفعة الثالثة: 20:30 UTC (21:30 بتوقيت الجزائر)
+    - cron: '30 20 * * *'
+  workflow_dispatch: # يتيح لك تشغيله يدوياً لتجربته من موقع GitHub في أي وقت
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: تحميل المستودع
+        uses: actions/checkout@v4
+
+      - name: إعداد بايثون
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: إرسال الإشعار الذكي
+        run: |
+          # تحديد رقم الدفعة حسب الساعة الحالية بتوقيت الجزائر (UTC+1)
+          HOUR=$(date -u -d '+1 hour' +'%H')
+          if [ "$HOUR" -lt 14 ]; then
+            BATCH=1
+          elif [ "$HOUR" -lt 19 ]; then
+            BATCH=2
+          else
+            BATCH=3
+          fi
+          echo "جاري فحص اليوم والتشغيل للدفعة $BATCH..."
+          python resto_notifier.py $BATCH
